@@ -1,4 +1,4 @@
-# `android.graphics.Path` work wrong on Android 6.0
+# `android.graphics.Path` working wrong on Android 6.0
 
 Some `Path` displayed wrong on android 6.0 but on android 4.1 (and othes) all correct.
 
