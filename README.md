@@ -2,7 +2,7 @@
 
 Some `Path` displayed wrong on android 6.0 but on android 4.1 (and othes) all correct.
 
-If stroke width > 1 then `Path` displayed incorrec.
+If stroke width > 1 then `Path` displayed incorrect.
 
 ## On Android 6.0 and Android 4.1
 
