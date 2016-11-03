@@ -9,7 +9,7 @@ If stroke width > 1 then `Path` displayed incorrect.
 ![Android 6.0](https://github.com/tepikin/Android6_bug_in_android.graphics.Path/blob/master/screenshots/android_6_short.png?raw=true)
 ![Android 4.1](https://github.com/tepikin/Android6_bug_in_android.graphics.Path/blob/master/screenshots/android_4_short.png?raw=true)
 
-## Full code fot test
+## Full code for test
 ```java
 package ru.lazard.myapplication;
 
